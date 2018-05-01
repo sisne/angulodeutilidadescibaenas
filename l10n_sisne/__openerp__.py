@@ -5,12 +5,17 @@
     'name': 'Dominican Republic - Accounting',
     'version': '1.0',
     'category': 'Localization',
-    'description': """
+    'description':
+
+        """
+
 This is a base module to manage the accounting for Dominican Republic.
 ======================================================================
 
 * The main taxes used in Domincan Republic
-* Fiscal position for local """,
+* Fiscal position for local
+
+        """,
     
     'author': 'SISNE, SRL.',
     'website': 'http://sisne.do',
@@ -22,7 +27,7 @@ This is a base module to manage the accounting for Dominican Republic.
         'data/account_fiscal_position_template.xml',
         'data/account_fiscal_position_tax_template.xml',
         'data/l10n_do_base_data.xml',
-        'data/account_chart_template.yml'
+        'data/account_chart_template.yml',
 
     ],
     
