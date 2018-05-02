@@ -11,6 +11,7 @@
     'depends': ['account', 'base_iban'],
     'data': [
         'data/account_chart_template.xml',
+        'data/account_account_template.xml',
         'data/l10n_do_base_data.xml',
         'data/account_chart_template.yml',
     ],
