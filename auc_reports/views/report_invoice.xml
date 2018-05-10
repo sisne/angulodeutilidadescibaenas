@@ -57,6 +57,12 @@
                     <strong>Referencia:</strong>
                     <p t-field="o.reference"/>
                 </div>
+
+                <div name="tipo" class="col-xs-2">
+                    <strong>Tipo de NCF:</strong>
+                    <p>Válido</p>>
+                </div>
+                
             </div>
 
             <!-- Is there a discount on at least one line? -->
