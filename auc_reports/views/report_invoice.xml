@@ -58,11 +58,16 @@
                     <p t-field="o.reference"/>
                 </div>
 
-                <div name="tipo" class="col-xs-2">
+                <div name="tipo_ncf" class="col-xs-2">
                     <strong>Tipo de NCF:</strong>
-                    <p>Válido</p>>
+                    <p>Factura de Crédito Fiscal</p>
                 </div>
-                
+
+                <div name="vencimiento_ncf" class="col-xs-2">
+                    <strong>Vencimiento NCF:</strong>
+                    <p>31/12/2019</p>
+                </div>
+
             </div>
 
             <!-- Is there a discount on at least one line? -->
@@ -176,22 +181,13 @@
 
             <p>
                 <br/>
-                <br/>
                 <strong>Temperatura de Entrega: __________</strong>
                 <br/>
                 <br/>
-                <br/>
-                <strong>Entregado por: ___________________________________________  Recibido por: ___________________________________________</strong>
-                <br/>
+                <strong>Entregado por: ________________________________________  Recibido por: ________________________________________</strong>
                 <br/>
                 <br/>
-                <strong>
-                Comentarios: ________________________________________________________________________________________________________
-
-                <br/>
-                <br/>
-                        ________________________________________________________________________________________________________________________
-                </strong>
+                <strong>Comentarios:</strong>
             </p>
 
         </div>
