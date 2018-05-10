@@ -60,10 +60,10 @@
 
                 <div name="tipo_ncf" class="col-xs-2">
                     <strong>Tipo de NCF:</strong>
-                    <p>Factura de Crédito Fiscal</p>
+                    <p>Crédito Fiscal</p>
                 </div>
 
-                <div name="vencimiento_ncf" class="col-xs-2">
+                <div name="vencimiento_ncf" class="col-xs-3">
                     <strong>Vencimiento NCF:</strong>
                     <p>31/12/2019</p>
                 </div>
